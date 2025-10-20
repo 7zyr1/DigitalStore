@@ -1,0 +1,186 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "DigitalStoreDBContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "MinimumProductVersion": "2.6.1186",
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DigitalStoreModel",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[bibliotecas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[bibliotecas_juegos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[calles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[datos_pagos_guardados]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[desarrolladoras]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[descuentos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[descuentos_producto]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalles_transacciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[direcciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[dlcs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[etiquetas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[formas_pago]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[generos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[juegos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[juegos_desarrolladoras]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[juegos_etiquetas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[juegos_generos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[juegos_publishers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[logros]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[paises]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[pegi]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[precios_productos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[productos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[provincias]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[publishers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[regiones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sistemas_operativos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sistemas_operativos_juegos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[transacciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[usuarios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[usuarios_juegos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[usuarios_logros]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[wishlist]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[wishlist_dlc]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[wishlist_juegos]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
